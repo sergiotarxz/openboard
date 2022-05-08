@@ -80,11 +80,11 @@
                 latin:keyWidth="30%p" />
         </case>
 
-        <!-- languageSwitchKeyEnabled="false" -->
+       <!-- languageSwitchKeyEnabled="false" -->
         <default>
             <Key
                 latin:keyStyle="spaceKeyStyle"
                 latin:keyWidth="50%p" />
         </default>
-    </switch>
+     </switch>
 </merge>
